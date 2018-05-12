@@ -1,0 +1,29 @@
+_repo: The-Day-of-His-Youth_33259
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+description: ''
+gutenberg_issued: '2010-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fathers and sons -- Fiction'
+title: The Day of His Youth
+url: http://www.gutenberg.org/ebooks/33259
